@@ -8,6 +8,8 @@ As part of my postdoctoral research projects, I worked in the development of pip
 
 I am a lifelong learner 🤓 always looking to improve my R and python skills and currently diving deeper into machine learning.
 
+For details about my professional experience see my [online CV](https://yuviaapr.github.io/) or my [LinkedIn profile](https://www.linkedin.com/in/perez-rico/).
+
 Besides the quality time that I spend with my PC, I like to:
 
 - fill my sketchbooks and paint 🎨
